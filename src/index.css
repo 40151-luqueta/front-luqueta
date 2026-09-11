@@ -3,15 +3,15 @@
    ═══════════════════════════════════════════════════════════════ */
 
 :root {
-  --fundo: #0b0f1a;
+  --fundo: #b62173;
   --fundo-2: #121829;
-  --cartao: #161d33;
+  --cartao: #07020a;
   --borda: #263153;
   --texto: #e8ecf8;
   --texto-fraco: #93a0c4;
-  --acento: #6d8bff;
-  --acento-2: #b06dff;
-  --ok: #34d399;
+  --acento: #ff6d74;
+  --acento-2: #ff6d74;
+  --ok: #09241a;
   --atencao: #fbbf24;
   --perigo: #f87171;
   --raio: 14px;
